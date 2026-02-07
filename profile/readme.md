@@ -59,7 +59,7 @@ Primary areas include web platforms, mobile applications, and Discord automation
 
 | Name | Role | Focus |
 |-----|-----|-------|
-| **Boaz (Niks)** | Founder · Freelance Developer | Backend systems, Discord bot architecture, web & mobile development |
+| **Boaz** | Founder · Freelance Developer | Backend systems, Discord bot architecture, web & mobile development |
 | *(Additional freelancers)* | Project-based | Added when required |
 
 ---
